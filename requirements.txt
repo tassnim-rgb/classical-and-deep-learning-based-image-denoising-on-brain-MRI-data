@@ -1,0 +1,17 @@
+# Core numerical and array libraries
+numpy
+pandas
+Pillow
+
+# Computer vision utilities and metrics (noise generation, PSNR/SSIM/MSE)
+scikit-image
+
+# BM3D denoising (installed inside the notebook via `pip install bm3d -q`)
+bm3d
+
+# Deep learning (select the torch/torchvision wheels matching your CUDA version)
+torch
+torchvision
+
+# Visualization
+matplotlib
